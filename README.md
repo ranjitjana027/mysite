@@ -1,12 +1,12 @@
-#### sampleapi
+# sampleapi
 
 REST API for POST and GET to save and fetch Student data from database.
 
-#### Installation of Required Package
-    ## pip install django
-    ## pip install djangorestframework
+# Installation of Required Package
+     pip install django
+     pip install djangorestframework
 
-#### Django 
+# Django 
 
 1. Create a django project, mysite.
     ## django-admin startproject mysite
@@ -35,7 +35,7 @@ REST API for POST and GET to save and fetch Student data from database.
 7. Create a super User.
     ## python manage.py createsuperuser
 
-#### REST Framework 
+# REST Framework 
 
 1. Add 'rest_framework' to INSTALLED_APPS list in mysite/settings.py.
     ## INSTALLED_APPS=[
