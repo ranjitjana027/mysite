@@ -12,7 +12,7 @@ REST API for POST and GET to save and fetch Student data from database.
     ## django-admin startproject mysite
 2. Create an API app, myapi.
     ## python manage.py startapp myapi
-3. Create Student Model in myapi/models.py.
+## 3. Create Student Model in myapi/models.py.
     ## from django.db import models
     ## class Student(models.Model):
     ## name=models.CharField(max_length=64)
