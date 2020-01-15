@@ -1,6 +1,5 @@
-
-
-REST API for POST and GET to save and fetch Student data from database.
+# Objective
+   REST API for POST and GET to save and fetch Student data from database.
 
 # Installation of Required Package
      pip install django
