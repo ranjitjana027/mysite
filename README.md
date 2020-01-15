@@ -1,4 +1,4 @@
-# sampleapi
+
 
 REST API for POST and GET to save and fetch Student data from database.
 
@@ -72,7 +72,7 @@ REST API for POST and GET to save and fetch Student data from database.
 
 
 
-5. In mysite/urls.py include app urls.
+## 5. In mysite/urls.py include app urls.
 
      from django.contrib import admin
      from django.urls import path, include
